@@ -1,4 +1,4 @@
-# 🧩 Miniprojects: Machine Learning, Deep Learning, and Data Science with Python
+# Miniprojects: Machine Learning, Deep Learning, and Data Science with Python
 
 This repository is a curated collection of 11 independent mini-projects built using **Python**.  
 Each project focuses on a key concept in **Machine Learning**, **Deep Learning**, or **Data Analysis**, demonstrating practical model development, evaluation, and visualization.  
